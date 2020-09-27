@@ -84,7 +84,7 @@ app.get('/', (req,res) => {
 	<ul>
 		<li>http://localhost:3000/api/get-endpoint</li>
 		<li>http://localhost:3000/api/post-endpoint</li>
-		<li>http://localhost:3000/api/post-endpoint/:id</li>
+		<li>http://localhost:3000/api/delete-endpoint/:id</li>
 	</ul>
 	`);
 })
